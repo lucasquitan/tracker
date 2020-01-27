@@ -32,7 +32,7 @@ O Tracker permite que desenvolvedores sejam localizados de acordo com suas capac
 
 ## ⚡ Utilização
 
-Para testar a ferramente é necessário utilizar o [Yarn](https://yarnpkg.com/lang/en/). 
+Para testar a ferramente é necessário utilizar o [Yarn](https://yarnpkg.com/lang/en/)/[npm](https://www.npmjs.com/). 
 Faça o download do repositório e inicie os scripts de cada pasta.
 
 <p align="center">
